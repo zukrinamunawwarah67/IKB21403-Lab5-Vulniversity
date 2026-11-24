@@ -248,8 +248,9 @@ This practical helped me understand why reconnaissance, proper evidence collecti
 
 ## References
 
-- TryHackMe. (n.d.). *Vulniversity*. https://tryhackme.com/room/vulniversity
-- GitHub Repository: IKB21403-Lab5-Vulniversity
+TryHackMe. (n.d.). *Vulniversity*. https://tryhackme.com/room/vulniversity
+
+Zul Azri, S. Z. M. (n.d.). *IKB21403-Lab5-Vulniversity* [GitHub repository]. GitHub. https://github.com/zukrinamunawwarah67/IKB21403-Lab5-Vulniversity
 
 ---
 
